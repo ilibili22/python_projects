@@ -1,4 +1,4 @@
-# در این پروژه یک نسخه ساده رمزنگاری و رمزگشایی را ساختم 
+ 
 
 while True:
     print("Program start:")
@@ -30,4 +30,5 @@ while True:
         print(f"Decoding: {Decoding_saver}")
     else:
         print("Goodbye👋\nyou can come here any time you want!")
+
         break
